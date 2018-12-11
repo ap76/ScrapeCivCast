@@ -6,6 +6,7 @@ url = "http://www.ijreview.com/wp-admin/admin-ajax.php"
 session = requests.Session()
 page_size = 24
 
+
 params = {
     'action': 'load_more',
     'numPosts': page_size,
