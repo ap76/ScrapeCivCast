@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="scraped" type="PLAIN_TEXT" />
       <mapping pattern="test ScrapeCivCast" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
