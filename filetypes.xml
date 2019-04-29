@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="scraped" type="PLAIN_TEXT" />
       <mapping pattern="test ScrapeCivCast" type="PLAIN_TEXT" />
+      <mapping pattern="planHolder" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
